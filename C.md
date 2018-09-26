@@ -6,12 +6,13 @@
 3. cabinet n.
    1. syn: closet, cupboard
    2. syn: ministry
-   3. + shadow cabinet
+   3. shadow cabinet
 4. cadre n.
 5. it's easier for a camel to go through a needle than ...
 6. canal n.
    1. syn: channel, waterway, pipe
-7. canoe n. paddle, boat
+7. canoe n.
+   1. syn: paddle, boat
 8. canteen n. 
 9. capitalism n.
    1. related: communism, socialism
