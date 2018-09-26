@@ -1,23 +1,23 @@
 # C
 
 1. calamity n.
-   1. syn: disaster, misfortune, tragedy, catastrophe
+    1. syn: disaster, misfortune, tragedy, catastrophe
 2. cause ---> causality n.
 3. cabinet n.
-   1. syn: closet, cupboard
-   2. syn: ministry
-   3. shadow cabinet
+    1. syn: closet, cupboard
+    2. syn: ministry
+    3. shadow cabinet
 4. cadre n.
 5. it's easier for a camel to go through a needle than ...
 6. canal n.
-   1. syn: channel, waterway, pipe
+    1. syn: channel, waterway, pipe
 7. canoe n.
-   1. syn: paddle, boat
+    1. syn: paddle, boat
 8. canteen n. 
 9. capitalism n.
-   1. related: communism, socialism
+    1. related: communism, socialism
 10. caption n.
-    1. 1. syn: subtitle
+    1. syn: subtitle
 11. capture ---> captive adj.
 12. caravan n.
     1. syn: trailer, wagon
