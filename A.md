@@ -76,4 +76,44 @@
 40. anticipate v.
     1. diff: participate
 41. antique n. & adj.
-42. 
+42. joking/jesting apart
+43. apparatus n.
+    1. syn: equipment, appliance
+44. appliance n.
+    1. electrical appliance
+45. be applicable to sb./for sth.
+46. appoint sb. as ...
+    1. syn: make sb. as ..., propose sb. for ...
+47. incentive n.
+    1. incentive for/to sb. to do sth.
+48. apt to/for
+    1. diff: liable to
+49. arab n. & adj. ---> arabic n. & adj. ---> arabian adj.
+50. archive n. & vt.
+51. arithmetic n.
+52. articulate adj. & vt.
+53. ascend <---> descend
+54. aspire vi.
+    1. aspire to/after
+    2. aspiration
+55. assassinate vt.
+    1. syn: murder
+    2. assassination
+56. assert vt.
+57. associate v. & n.
+58. assure vt.
+    1. assurance
+    2. syn: ensure, insure, secure
+59. asylum n.
+    1. asylum seeker
+60. attain vt.
+    1. syn:get
+61. attampt to do
+    1. deff: endeavor to do/after/for, strive to do
+62. audit vt.
+63. augment vt.
+64. authentic adj.
+65. auxiliary adj.
+66. avert vt.
+67. awe vt. & n.
+    1. awe into ...
