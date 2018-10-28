@@ -1,5 +1,3 @@
-# A
-
 1. abide v.
    1. vi. abide by: syn: conform to
    2. vt. syn: bear, stand

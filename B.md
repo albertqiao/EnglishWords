@@ -1,5 +1,3 @@
-# B
-
 1. back n. & v. & adj. & ad.
    1. syn: rear
    2. set back/off/down/out
