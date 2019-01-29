@@ -148,4 +148,36 @@
     2. he evaded the question: avoid, dodge
 40. evoke v.
     1. syn: bring to mind, stir up
-41. 
+41. evoke v.
+    1. bring to mind
+42. exasperate v. & n.
+    1. infuriate, anger
+43. exceed v.
+    1. the cost will exceed $400: be more/greater than
+    2. Brazil exceeds America in fertile land: surpass
+44. excel v.
+    1. he excelled at football: shine
+    2. she excelled him in her work: surpass
+45. excerpt n. & v.
+    1. noun
+       1. extract, part
+    2. verb
+       1. excerpt sth from sth
+46. exploit v. & n.
+    1. verb
+       1. we should exploit this new technology: utilize
+       2. exploiting the workers: take advantage of
+    2. noun
+       1. his exploits brought him notoriety: feat, adventure
+47. exquisite adj.
+    1. exquisite antique glass: beautiful
+    2. exquisite taste: discriminating
+    3. exquisite agony: intense
+48. exterior adj.
+    1. the exterior walls: outer
+49. extravagant adj.
+    1. an extravagant lifestyle: spendthrift
+    2. extravagant gifts: expensive
+    3. extravagant prices: exorbitant
+    4. extravagant praise: excessive
+    5. decorated in an extravagant style: ornate
