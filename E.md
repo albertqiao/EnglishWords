@@ -181,3 +181,5 @@
     3. extravagant prices: exorbitant
     4. extravagant praise: excessive
     5. decorated in an extravagant style: ornate
+50. eyebrow n.
+    1. the line of hair above the eye
